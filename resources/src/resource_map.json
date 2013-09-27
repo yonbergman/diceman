@@ -1,0 +1,41 @@
+
+{"friendlyVersion": "1.0",
+ "versionDefName": "DICE_IMAGES_RESOURCES",
+ "media": [
+	   {
+    	"type": "png",
+    	"defName": "DIE_FACE_1",
+    	"file": "images/1.png"
+    	},
+
+	   {
+    	"type": "png",
+    	"defName": "DIE_FACE_2",
+    	"file": "images/2.png"
+    	},
+
+	   {
+    	"type": "png",
+    	"defName": "DIE_FACE_3",
+    	"file": "images/3.png"
+    	},
+
+	   {
+    	"type": "png",
+    	"defName": "DIE_FACE_4",
+    	"file": "images/4.png"
+    	},
+
+	   {
+    	"type": "png",
+    	"defName": "DIE_FACE_5",
+    	"file": "images/5.png"
+    	},
+
+	   {
+    	"type": "png",
+    	"defName": "DIE_FACE_6",
+    	"file": "images/6.png"
+    	}
+	  ]
+}
